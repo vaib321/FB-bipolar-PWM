@@ -1,0 +1,2 @@
+# FB-bipolar-PWM
+In this we will design Full-Bridge DC/DC converter in LTspice. It consists of a Full-Bridge DC/DC converter which is controlled by a new analog control, designed and analyzed during this work. This control has been dimensioned so that it ensures a smooth switching of the transistors, which makes it possible to reduce the losses of power, and consequently increases the efficiency of the overall system.
